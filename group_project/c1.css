@@ -76,7 +76,7 @@ body {
 /* Gallery heading section end*/
 
 /* gallery img section start */
-.gallery_part{
+.gallery_part,.gallery_heading{
   background-color: lightgray;
 }
 .carousel-inner {
